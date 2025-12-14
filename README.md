@@ -3,7 +3,7 @@
 
 **QA Engineer | Cloud & CI/CD Enthusiast | RF Engineer**
 
-I’m a quality-driven technologist with a background in **wireless/RF engineering leadership** and a current focus on **software QA, cloud platforms, and CI pipelines**.  
+I’m a quality-driven technologist with a background in **wireless/RF engineering** and a current focus on **software QA, cloud platforms, and CI/CD pipelines**.  
 I build things end-to-end, test them like a skeptic, and document them like a professional.
 
 Think **season-long stat sheet**, not highlight reel.
