@@ -62,7 +62,7 @@ Think **season-long stat sheet**, not highlight reel.
 ---
 
 ## 🏈 Background
-Before software QA, I spent **20+ years in wireless/RF engineering**, leading teams responsible for network performance, optimization, and customer-impacting issue resolution.
+Before software QA, I held technical and leadership **RF Engineering** roles, all responsible for network performance, optimization, and resolving customer-impacting issues.
 
 That mindset still drives how I test:
 - Root cause over symptoms
