@@ -45,7 +45,7 @@ Think **season-long stat sheet**, not highlight reel.
 
 - 📊 **playwright-cloud-status-dashboard (secondary flagship)**  
   Evidence-based learning tracker across QA, Cloud, Education, and Wireless RF  
-  👉 https://github.com/vivaciousdove/cloud-status-dashboard
+  👉 https://github.com/vivaciousdove/playwright-cloud-status-dashboard
 
 ---
 
