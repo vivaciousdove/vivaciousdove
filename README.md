@@ -39,17 +39,13 @@ Think **season-long stat sheet**, not highlight reel.
 ---
 
 ## 📂 Featured Repositories
-- 🧪 **testsplaywright**  
-  Playwright CI UI testing with HTML reports, traces, screenshots, and videos  
-  👉 https://github.com/vivaciousdove/testsplaywright
+- 🧪 **provisioning-workflow (primary flagship)**  
+  End-to-end UI + API automation with Playwright, FastAPI, MySQL, and Allure reporting  
+  👉 https://github.com/vivaciousdove/provisioning-workflow
 
-- 📊 **learning-tracker**  
+- 📊 **playwright-cloud-status-dashboard (secondary flagship)**  
   Evidence-based learning tracker across QA, Cloud, Education, and Wireless RF  
   👉 https://github.com/vivaciousdove/learning-tracker
-
-- ☁️ **cloud-resume-challenge**  
-  Cloud-hosted resume with infrastructure and automation  
-  👉 https://github.com/vivaciousdove/cloud-resume-challenge
 
 ---
 
