@@ -54,8 +54,8 @@ UI automation and observability using Playwright with evidence-driven validation
 
 These projects serve as **technical proof points** for the QA/SDET capabilities described on my resume.
 
-<!--Click here to view or download a copy: https://vivaciousdove.github.io/myresume/
--->
+Click to view 👉 https://vivaciousdove.github.io/myresume/
+
 
 
 ---
