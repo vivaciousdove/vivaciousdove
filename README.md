@@ -1,119 +1,37 @@
-## Hi there 👋
-# My name is Todd Conner
+# Hi, I'm Todd Conner 👋
 
-**QA Engineer | Cloud & CI/CD Enthusiast | Former RF Engineer**
+**QA Engineer | Test Automation | API Testing | CI/CD | Cloud**
 
-I’m a quality-driven technologist with a background in **wireless/RF engineering** and a current focus on **software QA, cloud platforms, and CI/CD pipelines**.
+I'm a QA Engineer with a background in wireless/RF engineering and technical leadership. I work across manual and automated testing, APIs, UI workflows, databases, CI/CD, and cloud environments.
 
-I build systems end-to-end, test them like a skeptic, and document them like a professional.
+I'm also continuing to build my JavaScript skills through hands-on projects. Some are QA-focused, while others are small applications I built to learn, experiment, and have something real to test.
 
-Think **season-long stat sheet**, not highlight reel.
+## 🔎 What I Work With
 
----
+**Testing:** Playwright • Postman • Manual Testing • API Testing • UI Testing • Exploratory Testing • Test Case Design • Defect Investigation
 
-## 🔍 What I Do
+**Development & CI/CD:** JavaScript • GitHub Actions • Git • GitHub • Node.js
 
-- 🧪 Design and execute **manual and automated UI + API tests**
-- ⚙️ Build **Playwright test suites** with evidence-first reporting
-- 🔁 Implement **CI (Continuous Integration)** pipelines using GitHub Actions
-- ☁️ Work across **AWS, Azure, and GCP**
-- 🧠 Translate complex systems into **clear, testable requirements**
+**Data & Cloud:** SQL • JSON • AWS • Azure • GCP
 
----
+## 📁 Featured QA Projects
 
-## 🧰 Tech Stack
+### provisioning-workflow
 
-### Testing
-- Playwright (Chromium, Firefox, WebKit)
-- Manual QA & exploratory testing
-- API testing (Postman)
-- Test case design & defect reporting
+End-to-end UI and API automation using Playwright, FastAPI, MySQL, and Allure reporting.
 
-### CI / Development
-- GitHub Actions  
-  *(CI = Continuous Integration, originating from Agile / XP practices)*
-- Git, GitHub
-- Node.js, TypeScript
+### playwright-cloud-status-dashboard
 
-### Cloud
-- **AWS:** EC2, IAM, Lightsail  
-- **Azure:** App Services  
-- **GCP:** IAM, projects, service accounts  
+Playwright automation focused on UI validation, monitoring, and test evidence.
 
----
+## 🧠 How I Approach QA
 
-## 📂 Flagship Repositories
+My RF engineering background taught me to troubleshoot complex systems, work from evidence, and look for root causes instead of symptoms. I bring that same approach to software testing.
 
-### 🧪 **provisioning-workflow** *(Primary Flagship)*
-End-to-end UI + API automation with Playwright, FastAPI, MySQL, and Allure reporting  
-👉 https://github.com/vivaciousdove/provisioning-workflow
+I like building things, testing them, figuring out why they break, and improving them.
 
-### 📊 **playwright-cloud-status-dashboard** *(Secondary Flagship)*
-UI automation and observability using Playwright with evidence-driven validation  
-👉 https://github.com/vivaciousdove/playwright-cloud-status-dashboard
+## 🔗 Connect
 
-These projects serve as **technical proof points** for the QA/SDET capabilities described on my resume.
-
-Click to view 👉 https://vivaciousdove.github.io/myresume/
-
-
-
----
-
-## 🧠 How I Think About Quality
-
-- Evidence > opinions  
-- Failures should be **debuggable**, not silent  
-- Tests are **living documentation**  
-- CI is a **quality gate**, not a checkbox  
-
----
-
-## 🏈 Background
-
-Before software QA, I held technical and leadership roles in **RF engineering**, responsible for network performance, optimization, and resolving customer-impacting issues.
-
-That mindset still drives how I test software:
-
-- Root cause over symptoms  
-- Reproducibility matters  
-- Customers feel bugs before dashboards do  
-
----
-
-## 📫 Let’s Connect
-
-- GitHub: https://github.com/vivaciousdove  
-- Medium: https://medium.com/@tconnercloudandqa  
-- LinkedIn: https://www.linkedin.com/in/todd-conner
-
-
-<!--
-**vivaciousdove/vivaciousdove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**vivaciousdove/vivaciousdove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn
+- Medium
+- Resume
